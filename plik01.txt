@@ -1,2 +1,3 @@
 Przykładowa linia tekstu.
 Druga linia tekstu.
+Trzecia linia tekstu.
